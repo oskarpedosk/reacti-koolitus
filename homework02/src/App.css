@@ -1,0 +1,20 @@
+button {
+    min-width: 30px;
+    margin: 0 10px;
+}
+.city-row {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.city-row__img {
+    width: 30%;
+}
+
+.city-row__info {
+    margin-left: 10px;
+}
+
+.d-flex {
+    display: flex;
+}

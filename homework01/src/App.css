@@ -1,0 +1,27 @@
+.container {
+    padding: 10px;
+}
+
+.book-info {
+    padding: 10px;
+    overflow-wrap: break-word;
+    max-width: 300px;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.author {
+    font-weight: 600;
+}
+
+.book-cover {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.d-flex {
+    display: flex;
+}
