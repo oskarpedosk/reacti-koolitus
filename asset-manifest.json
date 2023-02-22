@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/oskarpedosk/reacti-koolitus/static/css/main.ebcea43d.css",
-    "main.js": "/oskarpedosk/reacti-koolitus/static/js/main.0df1080c.js",
-    "static/media/shrek.jpg": "/oskarpedosk/reacti-koolitus/static/media/shrek.50279067aeff15159514.jpg",
-    "static/media/americanpsycho.jpg": "/oskarpedosk/reacti-koolitus/static/media/americanpsycho.8466a6216a002019adfd.jpg",
-    "static/media/batman.jpg": "/oskarpedosk/reacti-koolitus/static/media/batman.58231b611745857ad8b2.jpg",
-    "static/media/matrix.jpg": "/oskarpedosk/reacti-koolitus/static/media/matrix.85c19ae40308822306a9.jpg",
-    "index.html": "/oskarpedosk/reacti-koolitus/index.html",
-    "main.ebcea43d.css.map": "/oskarpedosk/reacti-koolitus/static/css/main.ebcea43d.css.map",
-    "main.0df1080c.js.map": "/oskarpedosk/reacti-koolitus/static/js/main.0df1080c.js.map"
+    "main.css": "/reacti-koolitus/static/css/main.ebcea43d.css",
+    "main.js": "/reacti-koolitus/static/js/main.455772d9.js",
+    "static/media/shrek.jpg": "/reacti-koolitus/static/media/shrek.50279067aeff15159514.jpg",
+    "static/media/americanpsycho.jpg": "/reacti-koolitus/static/media/americanpsycho.8466a6216a002019adfd.jpg",
+    "static/media/batman.jpg": "/reacti-koolitus/static/media/batman.58231b611745857ad8b2.jpg",
+    "static/media/matrix.jpg": "/reacti-koolitus/static/media/matrix.85c19ae40308822306a9.jpg",
+    "index.html": "/reacti-koolitus/index.html",
+    "main.ebcea43d.css.map": "/reacti-koolitus/static/css/main.ebcea43d.css.map",
+    "main.455772d9.js.map": "/reacti-koolitus/static/js/main.455772d9.js.map"
   },
   "entrypoints": [
     "static/css/main.ebcea43d.css",
-    "static/js/main.0df1080c.js"
+    "static/js/main.455772d9.js"
   ]
 }
