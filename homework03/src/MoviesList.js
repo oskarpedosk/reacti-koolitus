@@ -1,10 +1,11 @@
-function MoviesList({moviesList, show}) {
+function MoviesList({movies, show}) {
     return (
         <div className="movies-list">
-        {moviesList.map((movie, i) => {
+        {movies.map((movie, i) => {
             return (
                 <div key={i}>
-                    <p>{movie.name}</p>
+                    <p>{movie.title}</p>
+                    <p>{movie.vote_average}</p>
                     <button onClick={() => show(movie)}>View</button>
                 </div>
             )

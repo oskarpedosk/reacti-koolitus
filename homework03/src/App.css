@@ -1,15 +1,15 @@
-.movies-list {
-    margin-right: 100px;
+.d-flex {
+    display: flex;
 }
-
-.movie-info {
+.movies-list {
+    width: 15%;
+}
+.movie {
     margin-left: 10px;
 }
-
 .movie-img {
     max-height: 200px;
 }
-
-.d-flex {
-    display: flex;
+.movie-info {
+    max-width: 20%;
 }
