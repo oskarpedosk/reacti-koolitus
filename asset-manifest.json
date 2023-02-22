@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/reacti-koolitus/static/css/main.ebcea43d.css",
-    "main.js": "/reacti-koolitus/static/js/main.c9f1afc2.js",
-    "static/media/shrek.jpg": "/reacti-koolitus/static/media/shrek.50279067aeff15159514.jpg",
-    "static/media/americanpsycho.jpg": "/reacti-koolitus/static/media/americanpsycho.8466a6216a002019adfd.jpg",
-    "static/media/batman.jpg": "/reacti-koolitus/static/media/batman.58231b611745857ad8b2.jpg",
-    "static/media/matrix.jpg": "/reacti-koolitus/static/media/matrix.85c19ae40308822306a9.jpg",
+    "main.css": "/reacti-koolitus/static/css/main.7ac5039b.css",
+    "main.js": "/reacti-koolitus/static/js/main.a1e63400.js",
     "index.html": "/reacti-koolitus/index.html",
-    "main.ebcea43d.css.map": "/reacti-koolitus/static/css/main.ebcea43d.css.map",
-    "main.c9f1afc2.js.map": "/reacti-koolitus/static/js/main.c9f1afc2.js.map"
+    "main.7ac5039b.css.map": "/reacti-koolitus/static/css/main.7ac5039b.css.map",
+    "main.a1e63400.js.map": "/reacti-koolitus/static/js/main.a1e63400.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebcea43d.css",
-    "static/js/main.c9f1afc2.js"
+    "static/css/main.7ac5039b.css",
+    "static/js/main.a1e63400.js"
   ]
 }
