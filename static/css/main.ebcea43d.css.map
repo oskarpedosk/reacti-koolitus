@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ebcea43d.css","mappings":"AAAA,aACI,kBACJ,CAEA,YACI,gBACJ,CAEA,WACI,gBACJ,CAEA,QACI,YACJ","sources":["App.css"],"sourcesContent":[".movies-list {\n    margin-right: 100px;\n}\n\n.movie-info {\n    margin-left: 10px;\n}\n\n.movie-img {\n    max-height: 200px;\n}\n\n.d-flex {\n    display: flex;\n}"],"names":[],"sourceRoot":""}
