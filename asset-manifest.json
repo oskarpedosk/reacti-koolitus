@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reacti-koolitus/static/css/main.7ac5039b.css",
-    "main.js": "/reacti-koolitus/static/js/main.a1e63400.js",
+    "main.js": "/reacti-koolitus/static/js/main.b3808045.js",
     "index.html": "/reacti-koolitus/index.html",
     "main.7ac5039b.css.map": "/reacti-koolitus/static/css/main.7ac5039b.css.map",
-    "main.a1e63400.js.map": "/reacti-koolitus/static/js/main.a1e63400.js.map"
+    "main.b3808045.js.map": "/reacti-koolitus/static/js/main.b3808045.js.map"
   },
   "entrypoints": [
     "static/css/main.7ac5039b.css",
-    "static/js/main.a1e63400.js"
+    "static/js/main.b3808045.js"
   ]
 }
