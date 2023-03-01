@@ -1,0 +1,2 @@
+.d-flex{display:flex}.movies-list{width:15%}.movies-list__movie{border:.5px solid #000;border-radius:5px;margin:10px 0;padding:20px}.movies-list__movie:hover{background-color:#caebff}.movies-list__movie p{margin:0 0 10px}.movies-list__movie h3{margin:0}.movie{display:flex;margin-left:10px}.movie-img{float:left;height:200px;object-fit:cover;width:150px}.movie-info{margin-left:10px;max-width:400px}.movie-info__rating,.movie-info__release{margin:0}.movie-info__overview{margin-top:10px}
+/*# sourceMappingURL=main.c00134a7.css.map*/
